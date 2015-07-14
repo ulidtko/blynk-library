@@ -3,7 +3,7 @@
 ### Bridge
 
 Bridge can be used for Device-to-Device communication.
-You can send digital/analog/virtual write commands from one device to another, knowing it's auth token.
+You can send digital/analog/virtual write commands from one device to another, knowing its auth token.
 
 ```cpp
 // Bridge widget on virtual pin 1
